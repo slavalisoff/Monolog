@@ -1,0 +1,6 @@
+/home/slava/Projects/Monolog/bin/Debug/Monolog.exe
+/home/slava/Projects/Monolog/bin/Debug/Monolog.pdb
+/home/slava/Projects/Monolog/obj/x86/Debug/Monolog.csprojAssemblyReference.cache
+/home/slava/Projects/Monolog/obj/x86/Debug/Monolog.csproj.CoreCompileInputs.cache
+/home/slava/Projects/Monolog/obj/x86/Debug/Monolog.exe
+/home/slava/Projects/Monolog/obj/x86/Debug/Monolog.pdb

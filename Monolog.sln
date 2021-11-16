@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monolog", "Monolog.csproj", "{5E6FE97D-3A53-403C-AFA0-D12CA419D882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E6FE97D-3A53-403C-AFA0-D12CA419D882}.Debug|x86.ActiveCfg = Debug|x86
+		{5E6FE97D-3A53-403C-AFA0-D12CA419D882}.Debug|x86.Build.0 = Debug|x86
+		{5E6FE97D-3A53-403C-AFA0-D12CA419D882}.Release|x86.ActiveCfg = Release|x86
+		{5E6FE97D-3A53-403C-AFA0-D12CA419D882}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
